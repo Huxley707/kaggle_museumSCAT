@@ -1,0 +1,9 @@
+qwen_museum/unsloth_compiled_cache/
+qwen_museum/qwen2_vl_specimen_lora/
+qwen_museum/uv.lock
+qwen_museum/pyproject.toml
+qwen_museum/vis.ipynb
+qwen_museum/batch_results.csv
+qwen_museum/batch_results.json
+qwen_museum/inference_debug.log
+/.idea
